@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: b52a057646d3c43bc81f9763c1e21721
+timeCreated: 1450918487
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: adv_chara_0
+    21300002: adv_chara_1
+    21300004: adv_chara_2
+    21300006: adv_chara_3
+    21300008: adv_chara_4
+    21300010: adv_chara_5
+    21300012: adv_chara_6
+    21300014: adv_chara_7
+    21300016: adv_chara_8
+    21300018: adv_chara_9
+    21300020: adv_chara_10
+    21300022: adv_chara_11
+    21300024: adv_chara_12
+    21300026: adv_chara_13
+    21300028: adv_chara_14
+    21300030: adv_chara_15
+    21300032: adv_chara_16
+    21300034: adv_chara_17
+    21300036: adv_chara_18
+    21300038: adv_chara_19
+    21300040: adv_chara_20
+    21300042: adv_chara_21
+    21300044: adv_chara_22
+    21300046: adv_chara_23
+    21300048: adv_chara_24
+    21300050: adv_chara_25
+    21300052: adv_chara_26
+    21300054: adv_chara_27
+    21300056: adv_chara_28
+    21300058: adv_chara_29
+    21300060: adv_chara_30
+    21300062: adv_chara_31
+    21300064: adv_chara_32
+    21300066: adv_chara_33
+    21300068: adv_chara_34
+    21300070: adv_chara_35
+    21300072: adv_chara_36
+    21300074: adv_chara_37
+    21300076: adv_chara_38
+    21300078: adv_chara_39
+    21300080: adv_chara_40
+    21300082: adv_chara_41
+    21300084: adv_chara_42
+    21300086: adv_chara_43
+    21300088: adv_chara_44
+    21300090: adv_chara_45
+    21300092: adv_chara_46
+    21300094: adv_chara_47
+    21300096: MainPlaceHolder_0
+    21300098: MainPlaceHolder_1
+    21300100: MainPlaceHolder_2
+    21300102: MainPlaceHolder_3
+    21300104: MainPlaceHolder_4
+    21300106: MainPlaceHolder_5
+    21300108: MainPlaceHolder_6
+    21300110: MainPlaceHolder_7
+    21300112: MainPlaceHolder_8
+    21300114: MainPlaceHolder_9
+    21300116: MainPlaceHolder_10
+    21300118: MainPlaceHolder_11
+    21300120: MainPlaceHolder_12
+    21300122: MainPlaceHolder_13
+    21300124: MainPlaceHolder_14
+    21300126: MainPlaceHolder_15
+    21300128: MainPlaceHolder_16
+    21300130: MainPlaceHolder_17
+    21300132: MainPlaceHolder_18
+    21300134: MainPlaceHolder_19
+    21300136: MainPlaceHolder_20
+    21300138: MainPlaceHolder_21
+    21300140: MainPlaceHolder_22
+    21300142: MainPlaceHolder_23
+    21300144: MainPlaceHolder_24
+    21300146: MainPlaceHolder_25
+    21300148: MainPlaceHolder_26
+    21300150: MainPlaceHolder_27
+    21300152: MainPlaceHolder_28
+    21300154: MainPlaceHolder_29
+    21300156: MainPlaceHolder_30
+    21300158: MainPlaceHolder_31
+    21300160: MainPlaceHolder_32
+    21300162: MainPlaceHolder_33
+    21300164: MainPlaceHolder_34
+    21300166: MainPlaceHolder_35
+    21300168: MainPlaceHolder_36
+    21300170: MainPlaceHolder_37
+    21300172: MainPlaceHolder_38
+    21300174: MainPlaceHolder_39
+    21300176: MainPlaceHolder_40
+    21300178: MainPlaceHolder_41
+    21300180: MainPlaceHolder_42
+    21300182: MainPlaceHolder_43
+    21300184: MainPlaceHolder_44
+    21300186: MainPlaceHolder_45
+    21300188: MainPlaceHolder_46
+    21300190: MainPlaceHolder_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MainPlaceHolder_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1080
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1080
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1080
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1080
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1080
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_6
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1080
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_7
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1080
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_8
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1080
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_9
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1080
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_10
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1080
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_11
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1080
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 720
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 720
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 720
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 720
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_18
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 720
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_19
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 720
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 720
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_21
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 720
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_22
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 720
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_23
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 720
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 360
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 360
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_27
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 360
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 360
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_29
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 360
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_30
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 360
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_31
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 360
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_32
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 360
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_33
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 360
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_34
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 360
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_35
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 360
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_39
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_41
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_42
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_43
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_44
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_45
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_46
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainPlaceHolder_47
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 0
+        width: 160
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
