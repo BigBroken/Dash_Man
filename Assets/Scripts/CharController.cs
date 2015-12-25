@@ -8,6 +8,6 @@ public class CharController : MonoBehaviour {
 	// fixedUpdate takes into account time, so no time.deltatime necessary
 	void FixedUpdate () {
 		float move = Input.GetAxis ("Horizontal");
-		GetComponent<Rigidbody2D>().velocity= new Vector2(move* maxspeed, 0);
+		GetComponent<Rigidbody2D>().velocity= new Vector2(move* maxspeed,GetComponent<Rigidbody2D>().velocity.y  );
 	}
 }
